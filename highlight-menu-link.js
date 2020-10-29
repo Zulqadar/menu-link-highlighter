@@ -1,4 +1,4 @@
-//<author name='Zuladar Idrishi' />
+//<author name='Zulqadar Idrishi' />
 //<version name='1.0' />
 
 var _sidebarObject = "";
